@@ -1,2 +1,2 @@
 # C-plusplus
-another goofy codings
+cpp basic projects
